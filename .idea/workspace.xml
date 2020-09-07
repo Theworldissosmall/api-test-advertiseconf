@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1hAzf4UEBOeYQzLwWmxnx6C15IP" />
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="366" y="23" key="CommitChangelistDialog2" timestamp="1599468810528">
+      <screen x="43" y="23" width="1397" height="877" />
+    </state>
+    <state x="366" y="23" key="CommitChangelistDialog2/43.23.1397.877/1440.23.1920.1057@43.23.1397.877" timestamp="1599468810528" />
+    <state x="214" y="114" width="1133" height="673" key="IDE.errors.dialog" timestamp="1599468983565">
+      <screen x="43" y="23" width="1397" height="877" />
+    </state>
+    <state x="214" y="114" width="1133" height="673" key="IDE.errors.dialog/43.23.1397.877/1440.23.1920.1057@43.23.1397.877" timestamp="1599468983565" />
+    <state x="341" y="201" key="Vcs.Push.Dialog.v2" timestamp="1599468907556">
+      <screen x="43" y="23" width="1397" height="877" />
+    </state>
+    <state x="341" y="201" key="Vcs.Push.Dialog.v2/43.23.1397.877/1440.23.1920.1057@43.23.1397.877" timestamp="1599468907556" />
   </component>
 </project>
