@@ -1,5 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bc533b80-f0c4-4d72-a17f-c3d1438f82a6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/common/Test_pika.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/conifg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/constant.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/http_requests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/my_mysql.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/mylogger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/read_excel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/test_pointpark.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/text_replace.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conf/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conf/conf.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conf/conf1.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conf/env.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/cases.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/log.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pack_lib/HTMLTestRunnerNew.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pack_lib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pack_lib/ddt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/report2020-09-07_16_41_08.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcases/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcases/test_insure.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/111.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
@@ -9,21 +52,70 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1hAzf4UEBOeYQzLwWmxnx6C15IP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc533b80-f0c4-4d72-a17f-c3d1438f82a6" name="Default Changelist" comment="" />
+      <created>1599468785045</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599468785045</updated>
+    </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1599468811013</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599468811013</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add">
+      <created>1599469020525</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599469020525</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <MESSAGE value="add" />
+    <option name="LAST_COMMIT_MESSAGE" value="add" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="366" y="23" key="CommitChangelistDialog2" timestamp="1599468810528">
+    <state x="366" y="23" key="CommitChangelistDialog2" timestamp="1599469020329">
       <screen x="43" y="23" width="1397" height="877" />
     </state>
-    <state x="366" y="23" key="CommitChangelistDialog2/43.23.1397.877/1440.23.1920.1057@43.23.1397.877" timestamp="1599468810528" />
+    <state x="366" y="23" key="CommitChangelistDialog2/43.23.1397.877/1440.23.1920.1057@43.23.1397.877" timestamp="1599469020329" />
     <state x="214" y="114" width="1133" height="673" key="IDE.errors.dialog" timestamp="1599468983565">
       <screen x="43" y="23" width="1397" height="877" />
     </state>
     <state x="214" y="114" width="1133" height="673" key="IDE.errors.dialog/43.23.1397.877/1440.23.1920.1057@43.23.1397.877" timestamp="1599468983565" />
-    <state x="341" y="201" key="Vcs.Push.Dialog.v2" timestamp="1599468907556">
+    <state x="234" y="100" key="SettingsEditor" timestamp="1599469399595">
       <screen x="43" y="23" width="1397" height="877" />
     </state>
-    <state x="341" y="201" key="Vcs.Push.Dialog.v2/43.23.1397.877/1440.23.1920.1057@43.23.1397.877" timestamp="1599468907556" />
+    <state x="234" y="100" key="SettingsEditor/43.23.1397.877/1440.23.1920.1057@43.23.1397.877" timestamp="1599469399595" />
+    <state x="341" y="201" key="Vcs.Push.Dialog.v2" timestamp="1599469057147">
+      <screen x="43" y="23" width="1397" height="877" />
+    </state>
+    <state x="341" y="201" key="Vcs.Push.Dialog.v2/43.23.1397.877/1440.23.1920.1057@43.23.1397.877" timestamp="1599469057147" />
   </component>
 </project>
