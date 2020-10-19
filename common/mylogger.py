@@ -1,11 +1,4 @@
-"""
-==========================================
-author:田剑锋
-file: mylogger.py
-time: 2019/09/2019/9/21/11:20
-E-mail:tianjianfeng1995@163.com
-==========================================
-"""
+
 import logging
 from common.conifg import myconf
 from common.constant import LOG_DIR

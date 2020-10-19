@@ -1,12 +1,4 @@
-"""
-# ================================================
-# @name    : Tian
-# @Time    : 2019/12/13 下午6:10
-# @Author  : jesse
-# @File    : pika.py
-# @Email   :tianjianfeng1995@163.com
-# ================================================
-"""
+
 
 import pika
 import random

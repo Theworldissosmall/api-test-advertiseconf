@@ -1,11 +1,4 @@
-"""
-==========================================
-author:田剑锋
-file: constant.py
-time: 2019/09/2019/9/21/11:20
-E-mail:tianjianfeng1995@163.com
-==========================================
-"""
+
 import os
 """
 常量模块
@@ -26,4 +19,5 @@ LOG_DIR = os.path.join(BASE_DIR,'logs')
 CONF_DIR = os.path.join(BASE_DIR,'conf')
 
 #用例数据所在的目录路径
+# DATA_DIR = os.path.join(BASE_DIR,'data')
 DATA_DIR = os.path.join(BASE_DIR,'data')
